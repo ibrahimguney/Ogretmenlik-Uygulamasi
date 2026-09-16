@@ -4,6 +4,8 @@
 
 Dijital araçları öğrenme amacına ve mahremiyet ilkesine göre seçmek.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 e-Okul, MEBBİS, EBA, KVKK, güvenli iletişim ve dijital okuryazarlık.
