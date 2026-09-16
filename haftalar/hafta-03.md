@@ -4,6 +4,8 @@
 
 Bireysel farklılıkları ve güvenilir gözlem ilkelerini kullanmak.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 Hazırbulunuşluk, ilgi, bağlam, yapılandırılmış gözlem, betimleme–yorum ayrımı.
