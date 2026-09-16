@@ -4,6 +4,8 @@
 
 Dönem gelişimini kanıtlarla değerlendirip sürekli gelişim planı oluşturmak.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 Kazanım–ölçme uyumu, alan yanılgıları, adalet, saygı, sorumluluk ve mesleki gelişim.
