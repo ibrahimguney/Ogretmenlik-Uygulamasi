@@ -4,6 +4,8 @@
 
 Mesleki bilgi, beceri, tutum ve değerleri günlük öğretmen işiyle ilişkilendirmek.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 Genel yeterlik alanları, kariyer basamakları ve öğretmenin görünmeyen emeği.
