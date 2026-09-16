@@ -4,6 +4,8 @@
 
 Düşünmeyi geliştiren soru ve dönüt tasarlamak.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 Yenilenmiş Bloom, bekleme süresi, etkili dönüt, çıkış kartı ve kavram yanılgısı.
