@@ -1,0 +1,6 @@
+# Öğrenci teslimleri ve kişisel veriler GitHub’a alınmaz
+ogrenci-verileri/
+portfolyo/
+teslimler/
+*.student.*
+*.ogrenci.*
