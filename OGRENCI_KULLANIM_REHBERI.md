@@ -15,3 +15,8 @@
 - Sonraki adım
 
 Öğrenci adı, okul numarası, yüz, özel durum veya ekran görüntüsünü izin ve kurum prosedürü olmadan paylaşmayın.
+
+
+## GitHub’a yükleme kuralı
+
+Bu formların doldurulmuş hâli, öğrenci gözlem notları, öğrenci ürünleri ve portfolyo kanıtları bu GitHub deposuna yüklenmez. Formlar yalnızca öğrencinin cihazında tutulur; PDF çıktısı kurumun belirlediği güvenli kanaldan teslim edilir.
