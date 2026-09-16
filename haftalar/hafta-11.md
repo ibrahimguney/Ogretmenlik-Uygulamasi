@@ -4,6 +4,8 @@
 
 Ders anlatımını ortak ölçütlerle değerlendirmek ve planı revize etmek.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 EK-5 ölçütleri, öğrenci katılımı, zaman yönetimi ve kanıta dayalı geri bildirim.
