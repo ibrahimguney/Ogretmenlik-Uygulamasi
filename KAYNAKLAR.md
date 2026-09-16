@@ -5,7 +5,7 @@
 Bu klasörde 13 haftalık özgün teorik ders içeriği ve ders slaytları bulunur. Depodaki canlı portal, bu materyallerin 12 haftalık kullanım düzenine göre yeniden yapılandırılmış sürümüdür.
 
 - [Teorik ders içeriği DOCX](./kaynaklar/İZÜ-MFE_Ogretmenlik-Uygulamasi-I_Teorik-Kisim_Ders-Icerigi_13-Hafta.docx)
-- [Ders slaytları PPTX](./kaynaklar/İZÜ-MFE_Ogretmenlik-Uygulamasi-I_Teorik-Kisim_Ders-Slaytlari_13-Hafta.pptx)
+- Ders slaytları PPTX: GitHub web arayüzünden kaynaklar klasörüne özgün dosya olarak eklenmelidir; bu oturumdaki aktarım sınırı nedeniyle otomatik yüklenemedi.
 
 ## Kullanım notu
 
