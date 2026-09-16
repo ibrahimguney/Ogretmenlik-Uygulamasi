@@ -4,6 +4,8 @@
 
 Öğrenme çıktısı, etkinlik ve ölçme arasında iç tutarlılık kurmak.
 
+<p><a href="../formlar/ders-plani-formu.html">Hazırlık Görevi</a>　<a href="../formlar/gozlem-formu.html">Okul Uygulaması</a>　<a href="../formlar/yansitma-formu.html">Portfolyo Kanıtı</a></p>
+
 ## Kuramsal odak
 
 Türkiye Yüzyılı Maarif Modeli, öğrenme kanıtları, farklılaştırma, 5E ve problem temelli öğretim.
