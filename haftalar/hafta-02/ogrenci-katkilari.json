@@ -1,0 +1,158 @@
+{
+  "kaynak": "2-hafta(1).docx",
+  "kayit_sayisi": 24,
+  "anlam_birimi_sayisi": 25,
+  "kodlama": "Her anlam birimine tek ana tema; kişi sayısı bilinmiyor.",
+  "veri": [
+    {
+      "kod": "G01",
+      "kaynak_no": "1",
+      "ifade": "Rol model olmak",
+      "tema": "Mesleki tutum ve örnek olma"
+    },
+    {
+      "kod": "G02",
+      "kaynak_no": "2",
+      "ifade": "Kendini geliştirmek",
+      "tema": "Mesleki yeterlik ve sürekli gelişim"
+    },
+    {
+      "kod": "G03",
+      "kaynak_no": "3",
+      "ifade": "Alanında uzman olmak",
+      "tema": "Mesleki yeterlik ve sürekli gelişim"
+    },
+    {
+      "kod": "G04",
+      "kaynak_no": "4",
+      "ifade": "Açık ve anlaşılır iletişim kurmak",
+      "tema": "İletişim ve öğretimi uyarlama"
+    },
+    {
+      "kod": "G05",
+      "kaynak_no": "5",
+      "ifade": "Öğrencilerin gönlüne dokunmak",
+      "tema": "Empati ve öğrenciyi tanıma"
+    },
+    {
+      "kod": "G06",
+      "kaynak_no": "6",
+      "ifade": "Empati yapabilmek",
+      "tema": "Empati ve öğrenciyi tanıma"
+    },
+    {
+      "kod": "G07",
+      "kaynak_no": "7",
+      "ifade": "Sorumluluk sahibi olmak",
+      "tema": "Adalet, etik ve farklılıklara saygı"
+    },
+    {
+      "kod": "G08",
+      "kaynak_no": "8",
+      "ifade": "Öğrencilerin farklılıklarına saygı göstermek",
+      "tema": "Adalet, etik ve farklılıklara saygı"
+    },
+    {
+      "kod": "G09",
+      "kaynak_no": "9",
+      "ifade": "Öğrencileri derse teşvik etmek",
+      "tema": "Öğrenci merkezlilik ve motivasyon"
+    },
+    {
+      "kod": "G10",
+      "kaynak_no": "10",
+      "ifade": "Öğrenci odaklı bir öğretim geliştirmek",
+      "tema": "Öğrenci merkezlilik ve motivasyon"
+    },
+    {
+      "kod": "G11",
+      "kaynak_no": "11",
+      "ifade": "Adil ve tarafsız olmak",
+      "tema": "Adalet, etik ve farklılıklara saygı"
+    },
+    {
+      "kod": "G12",
+      "kaynak_no": "12",
+      "ifade": "Ders içeriğini somutlaştırarak öğrencilere aktarmak",
+      "tema": "İletişim ve öğretimi uyarlama"
+    },
+    {
+      "kod": "G13",
+      "kaynak_no": "13",
+      "ifade": "Öğretmenin sınıfa hâkim olması",
+      "tema": "Sınıf yönetimi ve kararlılık"
+    },
+    {
+      "kod": "G14",
+      "kaynak_no": "14",
+      "ifade": "Empati gücünün yüksek olması",
+      "tema": "Empati ve öğrenciyi tanıma"
+    },
+    {
+      "kod": "G15",
+      "kaynak_no": "15",
+      "ifade": "Mesleğini severek yapmak",
+      "tema": "Mesleki tutum ve örnek olma"
+    },
+    {
+      "kod": "G16",
+      "kaynak_no": "16",
+      "ifade": "Kararlı olmak",
+      "tema": "Sınıf yönetimi ve kararlılık"
+    },
+    {
+      "kod": "G17",
+      "kaynak_no": "17",
+      "ifade": "Adaletli olmak",
+      "tema": "Adalet, etik ve farklılıklara saygı"
+    },
+    {
+      "kod": "G18",
+      "kaynak_no": "18",
+      "ifade": "Öğrencinin seviyesine inebilmek",
+      "tema": "İletişim ve öğretimi uyarlama"
+    },
+    {
+      "kod": "G19",
+      "kaynak_no": "20",
+      "ifade": "Farklılıklara saygı duymak",
+      "tema": "Adalet, etik ve farklılıklara saygı"
+    },
+    {
+      "kod": "G20",
+      "kaynak_no": "21a",
+      "ifade": "Üretken olmak",
+      "tema": "Mesleki yeterlik ve sürekli gelişim"
+    },
+    {
+      "kod": "G21",
+      "kaynak_no": "21b",
+      "ifade": "Öğrencinin ihtiyacını anlayabilmek",
+      "tema": "Empati ve öğrenciyi tanıma"
+    },
+    {
+      "kod": "G22",
+      "kaynak_no": "22",
+      "ifade": "Sınıfa hâkim olmak",
+      "tema": "Sınıf yönetimi ve kararlılık"
+    },
+    {
+      "kod": "G23",
+      "kaynak_no": "23",
+      "ifade": "Konuyu anlaşılır bir şekilde anlatabilmek",
+      "tema": "İletişim ve öğretimi uyarlama"
+    },
+    {
+      "kod": "G24",
+      "kaynak_no": "24 (ikinci)",
+      "ifade": "Kendisini geliştirmiş olmak",
+      "tema": "Mesleki yeterlik ve sürekli gelişim"
+    },
+    {
+      "kod": "G25",
+      "kaynak_no": "25 (ikinci)",
+      "ifade": "Yenilikçi olmak",
+      "tema": "Mesleki yeterlik ve sürekli gelişim"
+    }
+  ]
+}
