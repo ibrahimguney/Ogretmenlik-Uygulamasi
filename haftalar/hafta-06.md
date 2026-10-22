@@ -10,6 +10,12 @@
 
 Türkiye Yüzyılı Maarif Modeli, öğrenme kanıtları, farklılaştırma, 5E ve problem temelli öğretim.
 
+## Ayrıntılı ders planı
+
+[6. hafta ders planını aç](./hafta-06/ders-plani.md) · [Ders sayfası ve çözümlü etkinlikler](./hafta-06/index.html)
+
+Plan; öğrenme çıktılarını, 120 dakikalık oturum akışını (110 dakika çalışma + 10 dakika ara), 40 dakikalık örnek ders planını, 0–8 puanlık geliştirici akran rubriğini ve 6 saatlik okul uygulaması görevini içerir.
+
 ## Fakülte oturumu
 
 Önceki haftadan bir kanıtı anonim biçimde tartışın. Öğretim üyesi haftanın becerisi için örnek ve karşı örnek göstersin. Öğretmen adayları kendi okul bağlamlarına göre ürün geliştirsin. Oturum sonunda okul görevi, teslim ürünü ve etik sınır netleştirilsin.
