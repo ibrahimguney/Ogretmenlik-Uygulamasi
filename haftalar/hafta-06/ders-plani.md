@@ -3,8 +3,8 @@
 **Ders:** Öğretmenlik Uygulaması I  
 **Kurum:** İstanbul Sabahattin Zaim Üniversitesi · Eğitim Fakültesi  
 **Hazırlayan:** İbrahim Güney  
-**Kapsam:** 2 saat fakülte oturumu + 6 saat uygulama okulu çalışması  
-**Oturum düzeni:** Mevcut haftalık sayfadaki 120 dakikalık akış esas alınmıştır: 110 dakika çalışma ve 10 dakika ara. Kurumun ders saati düzenine göre zaman çizelgesi uyarlanabilir.  
+**Kapsam:** 2 × 50 dakika (100 dakika) fakülte oturumu + 6 saat uygulama okulu çalışması  
+**Oturum düzeni:** 1. ders 50 dakika + 2. ders 50 dakika = toplam 100 dakika ders. İki ders arasındaki ara bu süreye dahil değildir. Aşağıdaki dakika aralıkları arayı dışarıda bırakan ders süresini gösterir.  
 **Yöntemler:** Kısa anlatım, program incelemesi, örnek olay, hata analizi, iş birlikli planlama ve akran değerlendirmesi.  
 **Temel soru:** Öğrenme çıktısı, etkinlik ve değerlendirme arasında tutarlılık nasıl kurulur?
 
@@ -38,19 +38,19 @@ Oturum sonunda öğretmen adayı:
 
 | Dakika | Aşama | Öğretim üyesinin yönergesi | Öğretmen adayının eylemi ve kanıtı |
 |---|---|---|---|
-| 0–10 | Önceki haftayla köprü | “Bir zümre kararı, dersin hedefini, etkinliğini veya değerlendirmesini nasıl etkiler?” İki örneği tartıştırır. | Bireysel bir örnek verir; kararın plandaki karşılığını belirtir. |
-| 10–25 | Program okuma | Sınıf, çıktı ve açıklamalar birlikte incelenir. Programdaki ifadeyle adayın kendi ders hedefini ayırır. | Seçtiği çıktının kaynağını, metnini ve varsa kodunu kaydeder. |
-| 25–40 | Çıktı çözümleme | “Öğrenci ne yapacak; hangi ön bilgi gerekir; hangi ürün öğrenmeyi gösterir?” sorularını yöneltir. | Üç soruya kısa yanıt yazar; bir başarı ölçütü belirler. |
-| 40–50 | Çözümlü örnek | Aşağıdaki iki veri grubunu kullanır; hesaplama ve yorumlama kanıtını karşılaştırır. | Önce tahmin eder, sonra hesaplar ve gerekçe yazar. |
-| 50–60 | Hata avı | Uyumsuz planı sunar; üç sorun ve üç düzeltme ister. | Hedef, etkinlik ve değerlendirmeyi eşleştirerek planı düzeltir. |
-| 60–70 | Ara | 10 dakika ara. | — |
-| 70–82 | Planın bileşenleri | Çıktı, ön bilgi, materyal, akış, ölçme, farklılaştırma ve alternatifleri örnek üzerinde gösterir. | Plan şablonuna ilk notlarını işler. |
-| 82–102 | Grup atölyesi | 3 dakika hedef, 5 dakika kanıt, 8 dakika akış, 4 dakika kontrol süresi verir. | 40 dakikalık bir ders planı ve bireysel çıkış sorusu üretir. |
-| 102–112 | Akran incelemesi | 2 dakika okuma, 4 dakika rubrik, 2 dakika dönüt, 2 dakika düzeltme düzenini uygular. | Komşu grubun planına bir güçlü yön ve bir somut öneri yazar; kendi planını revize eder. |
-| 112–115 | Okul görevini açıklama | Planlanan–gerçekleşen karşılaştırmasının kapsamını ve teslim ürününü açıklar. | Uygulama öğretmeniyle görüşeceği noktaları kaydeder. |
-| 115–120 | Çıkış bileti | Bireysel olarak “Hedef yorumlama ise yalnızca formül sormak neden yetersizdir?” sorusunu verir. | Bir gerekçe ve uygun bir değerlendirme sorusu yazar. |
+| 0–5 | Önceki haftayla köprü | “Bir zümre kararı, dersin hedefini, etkinliğini veya değerlendirmesini nasıl etkiler?” İki örneği tartıştırır. | Bireysel bir örnek verir; kararın plandaki karşılığını belirtir. |
+| 5–17 | Program okuma | Sınıf, çıktı ve açıklamalar birlikte incelenir. Programdaki ifadeyle adayın kendi ders hedefini ayırır. | Seçtiği çıktının kaynağını, metnini ve varsa kodunu kaydeder. |
+| 17–30 | Çıktı çözümleme | “Öğrenci ne yapacak; hangi ön bilgi gerekir; hangi ürün öğrenmeyi gösterir?” sorularını yöneltir. | Üç soruya kısa yanıt yazar; bir başarı ölçütü belirler. |
+| 30–40 | Çözümlü örnek | Aşağıdaki iki veri grubunu kullanır; hesaplama ve yorumlama kanıtını karşılaştırır. | Önce tahmin eder, sonra hesaplar ve gerekçe yazar. |
+| 40–50 | Hata avı | Uyumsuz planı sunar; üç sorun ve üç düzeltme ister. | Hedef, etkinlik ve değerlendirmeyi eşleştirerek planı düzeltir. |
+| Dersler arası | Ara | İlk 50 dakikadan sonra; 100 dakikalık ders süresinin dışında. | — |
+| 50–60 | Planın bileşenleri | Çıktı, ön bilgi, materyal, akış, ölçme, farklılaştırma ve alternatifleri örnek üzerinde gösterir. | Plan şablonuna ilk notlarını işler. |
+| 60–80 | Grup atölyesi | 3 dakika hedef, 5 dakika kanıt, 8 dakika akış, 4 dakika kontrol süresi verir. | 40 dakikalık bir ders planı ve bireysel çıkış sorusu üretir. |
+| 80–90 | Akran incelemesi | 2 dakika okuma, 4 dakika rubrik, 2 dakika dönüt, 2 dakika düzeltme düzenini uygular. | Komşu grubun planına bir güçlü yön ve bir somut öneri yazar; kendi planını revize eder. |
+| 90–95 | Okul görevini açıklama | Planlanan–gerçekleşen karşılaştırmasının kapsamını ve teslim ürününü açıklar. | Uygulama öğretmeniyle görüşeceği noktaları kaydeder. |
+| 95–100 | Çıkış bileti | Bireysel olarak “Hedef yorumlama ise yalnızca formül sormak neden yetersizdir?” sorusunu verir. | Bir gerekçe ve uygun bir değerlendirme sorusu yazar. |
 
-**Zaman kontrolü:** Aşamaların toplamı 120 dakikadır; ara dışındaki çalışma 110 dakikadır. Bütün gruplara uzun sunum yaptırmak yerine ürünler eşleştirilerek incelenir.
+**Zaman kontrolü:** İlk beş aşama 50 dakika, aradan sonraki beş aşama 50 dakikadır. Toplam ders süresi 100 dakikadır; ara bu toplama dahil değildir. Bütün gruplara uzun sunum yaptırmak yerine ürünler eşleştirilerek incelenir.
 
 ## 4. Kavramsal çerçeve
 

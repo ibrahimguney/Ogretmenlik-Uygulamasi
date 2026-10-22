@@ -14,7 +14,7 @@ Türkiye Yüzyılı Maarif Modeli, öğrenme kanıtları, farklılaştırma, 5E 
 
 [6. hafta ders planını aç](./hafta-06/ders-plani.md) · [Ders sayfası ve çözümlü etkinlikler](./hafta-06/index.html)
 
-Plan; öğrenme çıktılarını, 120 dakikalık oturum akışını (110 dakika çalışma + 10 dakika ara), 40 dakikalık örnek ders planını, 0–8 puanlık geliştirici akran rubriğini ve 6 saatlik okul uygulaması görevini içerir.
+Plan; öğrenme çıktılarını, 2 × 50 dakika, toplam 100 dakikalık ders akışını (ara hariç), 40 dakikalık örnek ders planını, 0–8 puanlık geliştirici akran rubriğini ve 6 saatlik okul uygulaması görevini içerir.
 
 ## Fakülte oturumu
 
